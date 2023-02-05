@@ -1,0 +1,307 @@
+/* Tüm Bölgede Yapılacak Değişiklikler için */
+* {
+    font-size: 14px;
+    font-family: Arial,  sans-serif;
+  }
+
+/* Genellikle üst ve alt bölge */
+.conteiner{
+    height: 36px;
+    margin-top: 14px;
+    margin-right: 9px;
+    
+    
+}
+a{
+    text-decoration:none;
+    font-family: Roboto, arial, sans-serif;
+  font-size: 14px;
+  color: #70757a;
+  
+    
+
+}
+a:visited{color: #70757a;}
+
+
+.bg-denemered{
+    background: red;
+}
+.bg-denemeblue{
+    background: blue;
+}
+.bg-denemegreen{
+    background:purple;
+}
+
+.mail{
+    float: right;
+    margin-right: 1px;
+    margin-left: 1px;border-radius: 18px;
+  
+}
+.mail:hover{
+        display: inline-block;
+        vertical-align: middle;
+        -webkit-transform: perspective(1px) translateZ(0);
+        transform: perspective(1px) translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: box-shadow;
+        transition-property: box-shadow;
+        box-shadow: inset 0 0 0 4px #e1e1e1, 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.hakkinda{
+    float: right;
+    padding-top: 8px;
+    padding-right: 17px;
+}
+
+.gorseller a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.gorseller{
+    float: right;
+    padding-top: 8px;
+    padding-right: 14px;
+    color: black;
+}
+
+
+.gmail{
+    float: right;
+    padding-top: 8px;
+    padding-right: 14px;
+    text-decoration:none;
+    color: black;
+}
+.gmail a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.gmail:visited{
+    color: black
+}
+
+/* logo için olan alan */
+img{
+  display: block;
+  margin: auto;
+}
+.logo{
+    margin-top: 210px;
+}
+
+/* logo kısmı bitiş */
+
+/* zorlu kısım arama form yeri */
+.discerceve{
+    margin-top: 26px
+}
+.anacerceve{
+    border:1px solid darkgrey;
+    border-radius: 30px;
+    margin: auto;
+	width:578px;
+	height:45px;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+}
+
+input[type=text] {
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    margin-top: -10px;
+    height: 25px;
+    width: 400px;
+    border: none;
+  }
+  .input {
+    background-color: transparent;
+    border: 0px solid;
+    height: 20px;
+    width: 160px;
+    color: #CCC;
+  }
+  textarea:focus, input:focus{
+    outline: none;
+}
+
+  /* Böyle yapıldığında tüm blok renk değiştiriyor dark mode'da vardı açık temada olmadığı için kaldırdım
+  
+  .input:hover{
+    background:rgb(223, 223, 223)
+  } */
+
+  /* .anacerceve:hover .inputsearch{
+    background :rgb(223, 223, 223) 
+} 
+ .anacerceve:hover{
+    box-shadow: 0px 3px 5px 0px rgba(177, 177, 177, 0.5);
+    background:rgb(223, 223, 223)  
+*/
+.anacerceve:hover{
+    box-shadow: 0px 3px 5px 0px rgba(177, 177, 177, 0.5);
+}
+ 
+
+  .buton{
+ margin-left: -25px;
+ margin-top: 0px;
+  }
+
+  .klavye{
+    margin-left: 21px;
+    margin-top: 1px;
+  }
+
+  .mik{
+    margin-left: 18px;
+    margin-top: -6px;
+  }
+
+  .kamera{
+    margin-left: 14px;
+    margin-top: -5px;
+  }
+
+  .aramabutonu{
+    width: 500px;
+    margin: auto;
+    margin-top: 27px;
+  }
+
+  .arama{
+    width: 200px;
+    float: left;
+}
+.sans{
+    width: 300px;
+    float: left;
+    
+}
+
+ .aramaic{
+    background-color: rgb(248, 249, 251);
+    border: none;
+    border-radius: 4px;
+    height: 35px;
+    width: 120px;
+    margin-left: 75px;
+
+ }
+
+ .sansic{
+    background-color: rgb(248, 249, 251);
+    border: none;
+    border-radius: 4px;
+    height: 35px;
+    width: 215px;
+    margin-left: 10px;
+
+ }
+ .aramaic:hover{
+    
+    display: inline-block;
+        vertical-align: middle;
+        -webkit-transform: perspective(1px) translateZ(0);
+        transform: perspective(1px) translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: box-shadow;
+        transition-property: box-shadow;
+        box-shadow: inset 0 0 0 1px #e1e1e1, 0 0 1px rgba(0, 0, 0, 0);
+}
+
+ 
+
+ .sansic:hover{
+  
+    display: inline-block;
+        vertical-align: middle;
+        -webkit-transform: perspective(1px) translateZ(0);
+        transform: perspective(1px) translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: box-shadow;
+        transition-property: box-shadow;
+        box-shadow: inset 0 0 0 1px #e1e1e1, 0 0 1px rgba(0, 0, 0, 0);
+
+ }
+
+ .altilk{
+    background:rgb(243, 242, 242);
+    position:absolute;
+    bottom: 53px;
+    right: 0px;
+    left: 0px;
+    font-size: 15px;
+    height: 23px;
+    padding-left: 30px;
+    padding-top: 12px;
+    padding-bottom: 11px;
+    color: #70757a;
+    
+    
+
+
+ }
+ .altiki{
+    background:rgb(243, 242, 242);
+    position:absolute;
+    bottom: 5px;
+    right: 0px;
+    left: 0px;
+    font-size: 15px;
+    padding-left: -4px;
+    padding-top: 3px;
+    padding-bottom: 14px;
+    color: #70757a;
+    
+
+  }
+
+ .altlinkler{
+    margin-right: 28px;;
+ }
+
+
+ .altlinkler a:hover{
+    text-decoration: underline;
+ }
+
+
+ .siyahc{
+    background:rgb(220, 219, 224);
+    position:absolute;
+    bottom: 51px;
+    right: 0px;
+    left: 0px;
+height: 2px;}
+ 
+.karbonlogo{
+    margin-left: 410px;
+    margin-right: 5px;
+   }
+
+.karbon{
+    margin-right:540px ;
+}
+
+span{
+    color: black;
+    font-size: 13px;
+}
+span:visited{
+    color: black;
+}

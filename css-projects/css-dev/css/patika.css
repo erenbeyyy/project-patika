@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+div {
+    color: darksalmon;
+}
+lu {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+p {
+    color: rgb(180, 168, 168);
+}
+p1 {
+    text-transform: uppercase;
+    color: wheat;
+    text-align: center;
+}
+h2 {
+    text-transform: uppercase;
+    color: red;
+}
