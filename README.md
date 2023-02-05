@@ -3,16 +3,19 @@
 Bu projeleri [patika.dev](https://www.patika.dev/) sayesinde hazırlamış bulunmaktayım. 
 
 *Projeler
-  i.rnjf
+  * Html
+  * css
+  * bootstrap
+  * veri yapıları
 
--Html
--Css
--Bootstrap
--Veri Yapıları...
+  1. Html
+  2. css
+  3. Bootstrap
+  4. Veri Yapıları...
 
 **Amaç
 
-- Kendimi yazılım alanında geliştirmek 
+- Kendimi yazılım alanında geliştirmek.
 
 *Lisans
 
