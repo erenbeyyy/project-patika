@@ -1,18 +1,15 @@
 **Patika Projects
 
-Bu projeleri [patika.dev](https://www.patika.dev/) sayesinde hazırlamış bulunmaktayım. 
+Bu projeleri [patika.dev](https://www.patika.dev/) sayesinde oluşturmuş bulunmaktayım.
 
-*Projeler
-  * Html
-  * css
+##Projeler
+
+  * Html-css
+  * js
   * bootstrap
   * veri yapıları
-
-  1. Html
-  2. css
-  3. Bootstrap
-  4. Veri Yapıları...
-
+ 
+ 
 **Amaç
 
 - Kendimi yazılım alanında geliştirmek.
