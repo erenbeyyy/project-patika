@@ -1,13 +1,19 @@
-# Patika Projects
+**Patika Projects
 
 Bu projeleri [patika.dev](https://www.patika.dev/) sayesinde hazırlamış bulunmaktayım. 
 
-## Amaç
+*Projeler
+i.rnjf
 
-- Kullanıcıların programlama becerilerini geliştirmelerine yardımcı olmak
-- Basit ve anlaşılır bir kullanıcı arayüzü sunmak
-- Zaman kaybını önlemek ve verimlilik artırmak
+-Html
+-Css
+-Bootstrap
+-Veri Yapıları...
 
-## Lisans
+**Amaç
+
+- Kendimi yazılım alanında geliştirmek 
+
+*Lisans
 
 Proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
