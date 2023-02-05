@@ -3,7 +3,7 @@
 Bu projeleri [patika.dev](https://www.patika.dev/) sayesinde hazırlamış bulunmaktayım. 
 
 *Projeler
-i.rnjf
+  i.rnjf
 
 -Html
 -Css
